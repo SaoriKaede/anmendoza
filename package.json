@@ -2,7 +2,7 @@
   "name": "anmendoza",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://SaoriKaede.github.io/anmendoza/", 
+  "homepage": "https://saorikaede.github.io/anmendoza/", 
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
